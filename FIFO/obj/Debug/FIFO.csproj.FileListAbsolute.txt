@@ -1,6 +1,1 @@
-c:\users\pablo\documents\visual studio 2015\Projects\FIFO\FIFO\bin\Debug\FIFO.exe.config
-c:\users\pablo\documents\visual studio 2015\Projects\FIFO\FIFO\bin\Debug\FIFO.exe
-c:\users\pablo\documents\visual studio 2015\Projects\FIFO\FIFO\bin\Debug\FIFO.pdb
-c:\users\pablo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
-c:\users\pablo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.exe
-c:\users\pablo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.pdb
+C:\Users\Pablo\Dropbox\Projects\FIFO\FIFO\bin\Debug\FIFO.exe.config
